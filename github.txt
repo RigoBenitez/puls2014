@@ -1,0 +1,20 @@
+ftp 
+transmision de archivos
+Hosting barato nomr--> /public_html/<--ftp
+	index.php
+	images
+www.dogecoin.com
+
+SISTEMAS DE CONTROL DE VERSIONES
+SW: subversion/ mercurial/ TFS/ CVS/ GIT
+Github
+1 red social de programadores
+2 web/App
+====
+
+Repositorio de codigo GITHUB (master)
+
+1 Multiples versiones del mismo codigo
+2 cambios Delta
+  base de datos atomica del codigo 
+3 historial de cada archivo 
